@@ -127,16 +127,16 @@
           }
         },
         {
-          "id": "net.caffeinemc:sodium:mc26.3-0.9.3-beta.5-fabric",
-          "name": "Sodium (mc26.3-0.9.3-beta.5-fabric)",
+          "id": "net.caffeinemc:sodium:mc26.3-0.9.3-beta.3-fabric",
+          "name": "Sodium (mc26.3-0.9.3-beta.3-fabric)",
           "type": "FabricMod",
           "required": {
             "value": true
           },
           "artifact": {
-            "size": 1914521,
-            "MD5": "2df28e794495808d7eb572ee563f6bc5",
-            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/v7Lw0h1m/sodium-fabric-0.9.3-beta.5%2Bmc26.3.jar"
+            "size": 1913009,
+            "MD5": "8cb87207cf7e28a945b7c1ce6013f7fd",
+            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/aFVpk3tG/sodium-fabric-0.9.3-beta.3%2Bmc26.3.jar"
           }
         },
         {
