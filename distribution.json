@@ -8,7 +8,7 @@
       "description": "BloodShare 서버",
       "icon": "https://raw.githubusercontent.com/Hoone02/bloodshare-launcher-files/main/icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "pixelhoon.kr:25565",
       "minecraftVersion": "26.3",
       "mainServer": true,
       "autoconnect": true,
