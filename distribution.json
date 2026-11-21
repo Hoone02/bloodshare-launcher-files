@@ -34,7 +34,7 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 2838,
-                "MD5": "539f2f179ff5c39294e7e0c9a60f6ab3",
+                "MD5": "f66f64fe23e28ffae9c038f666729125",
                 "url": "https://raw.githubusercontent.com/Hoone02/bloodshare-launcher-files/main/fabric/fabric-loader-0.19.5-26.3.json"
               }
             },
@@ -108,8 +108,8 @@
             "value": true
           },
           "artifact": {
-            "size": 784026,
-            "MD5": "d6155365e7723fcd5362e25a50a86a85",
+            "size": 784875,
+            "MD5": "1222b8658a6f5be7d02a970e704cb097",
             "url": "https://raw.githubusercontent.com/Hoone02/bloodshare-launcher-files/main/mods/bloodshare-client-1.0.0.jar"
           }
         },
